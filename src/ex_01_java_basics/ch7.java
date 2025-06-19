@@ -24,7 +24,5 @@ public class ch7 {
         } else {
             System.out.println("The largest number is: " + c);
         }
-
-        scanner.close();
     }
 }
